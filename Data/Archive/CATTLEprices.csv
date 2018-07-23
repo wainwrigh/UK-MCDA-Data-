@@ -1,0 +1,48 @@
+Breed,Year,No.Sold,Type,TopPrice,MeanPrice
+British White,2007,1,Cow,787.5,787.5
+British White,2007,6,Heifer,1365,777
+Dexter,2007,1,J.Bull,2415,2415
+Dexter,2007,3,Cow,1837.5,1004.5
+Dexter,2007,3,Heifer,630,483
+Gloucester,2007,2,Cow,1050,693
+Longhorn,2007,3,Cow,1050,822.5
+Longhorn,2007,4,Heifer,1522.5,1063.125
+Longhorn,2007,1,J.Bull,1575,1575
+Longhorn,2007,1,S.Bull,3150,3150
+British White,2011,8,Heifer,1050,729.75
+British White,2011,1,Bull,1207.5,1207.5
+British White,2011,4,Cow,1155,882
+Dexter,2011,5,Cow,808.5,455.7
+Dexter,2011,2,Heifer,378,341.25
+Dexter,2011,1,Bull,1176,1176
+Irish Moiled,2011,2,Cow,840,745.5
+Irish Moiled,2011,1,Bull,315,315
+Longhorn,2011,2,Cow,924,913.5
+Longhorn,2011,3,Heifer,1050,787.5
+Longhorn,2011,2,Bull,1228.5,1107.75
+Shetland,2011,1,Cow,609,609
+Dexter,2012,1,Bull,1050,1050
+Dexter,2012,17,Cow or Heifer,1050,491.75
+Hereford(Traditional),2012,1,Bull,1575,1575
+Hereford(Traditional),2012,1,Cow,1312.5,1312.5
+Longhorn,2012,6,Cow or Heifer,1995,1144.5
+British White,2013,1,Cow,1470,1470
+British White,2013,2,Heifer,1260,1155
+British White,2013,2,Heifer,840,708.75
+British White,2013,1,Bull,2100,2100
+Dexter,2013,1,Bull,630,630
+Dexter,2013,4,Cows,462,386.38
+Hereford(Traditional),2013,2,Heifer,5145,3255
+Hereford(Traditional),2013,1,Bull,1522.5,1522.5
+Longhorn,2013,1,Cow,861,861
+Longhorn,2013,1,Heifer,1060.5,1060.5
+British White,2014,10,Cows,1575,952.35
+British White,2014,1,S.Bull,945,945
+Dexter,2014,6,Cows,609,287
+Dexter,2014,2,S.bull,945,577.5
+Dexter,2014,15,Cows,367.5,284.2
+Gloucester,2014,1,S.bull,682.5,682.5
+Hereford(Traditional),2014,2,Cows,1995,1900.5
+Hereford(Traditional),2014,1,S.Bull,892.5,892.5
+Irish Moiled,2014,1,Cows,945,945
+Red Poll,2014,2,Cows,651,635.25

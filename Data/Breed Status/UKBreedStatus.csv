@@ -1,0 +1,251 @@
+Species ,Breed,Native,NBAR,Y0,Y1,Y2,Y3,Y4,Y5,Y6,PercentChange,Negative
+Cattle,Aberdeen-Angus,1,0,"8,474","8,813","9,677","9,446","9,835",,,,0
+Cattle,Aberdeen-Angus (Original Population),1,1,48,37,44,40,50,49,57,16.3,0
+Cattle,Albion,0,0,11,12,2,0,7,34,49,,0
+Cattle,Ancient Cattle of Wales (Coloured Welsh Cattle),0,0,21,22,32,23,28,,,,0
+Cattle,Angler Rotvieh,0,0,,,,,,,,,0
+Cattle,Ankole,0,0,,,,,,,,,0
+Cattle,Armoricaine,0,0,,,,,,,,,0
+Cattle,Aubrac,0,0,,,,,,,,,0
+Cattle,Ayrshire,1,0,,,"6,566","6,415","6,960",,,,0
+Cattle,Bazadaise,0,0,,159,,,,,,,0
+Cattle,Beef Shorthorn,1,1,"2,181","2,073","2,393","2,405","2,661",,,10.6,0
+Cattle,Belted Galloway,1,1,704,837,733,773,874,908,957,5.4,0
+Cattle,Bison,0,0,,,,,,,,,0
+Cattle,Brahman,0,0,,,,,,,,,0
+Cattle,Bretonne Pie Noire,0,0,,,,,,,,,0
+Cattle,British Blonde,0,0,983,"1,110","1,007",836,846,,,,0
+Cattle,British Blue,0,0,"1,119","1,023",918,669,602,593,,,0
+Cattle,British Charolais,0,0,"3,828","3,862","4,162","4,048","3,817",,,,0
+Cattle,British Friesian (Original) (5),1,1,,"1,924",,,"2,114",,,,0
+Cattle,British Friesian including British Friesian (Original),1,0,"2,331","2,254","2,455","2,671","3,043","3,006",,,0
+Cattle,British Montbeliarde,0,0,,,425,482,453,444,,,0
+Cattle,British Piemontese,0,0,33,25,43,29,53,,,,0
+Cattle,British Simmental,0,0,"4,153","4,337","4,297","4,156","4,260",,,,0
+Cattle,British White,1,1,424,370,372,334,382,295,295,0.0,0
+Cattle,Brown Swiss,0,0,"1,200",882,394,326,431,551,,,0
+Cattle,Chianina,0,0,,,,,,,,,0
+Cattle,Chillingham,1,1,8,8,12,13,11,6,7,16.7,0
+Cattle,Dairy Shorthorn (4),1,0,,,"2,279","2,796","2,484",,,,0
+Cattle,Dairy Shorthorn (Original Population),1,1,20,10,6,12,7,14,24,71.4,0
+Cattle,Danish Red,0,0,,,,,,,,,0
+Cattle,Devon (Red Ruby Devon),1,1,,,"2,007","2,004","2,179","2,202","2,010",-8.7,1
+Cattle,Dexter,1,1,"2,283","2,524","2,327","2,171","2,186","2,197","2,210",0.6,0
+Cattle,English Longhorn,1,1,"1,531","1,572","1,597","1,526","1,474","1,472","1,228",-16.6,1
+Cattle,Fleckvieh,0,0,,,29,30,23,,,,0
+Cattle,Galloway,1,1,"1,226",950,891,"1,018",947,864,696,-19.4,1
+Cattle,Gasconne,0,0,14,42,15,16,20,,,,0
+Cattle,Gelbvieh,0,0,,,,,,,,,0
+Cattle,Gloucester,1,1,110,81,130,132,117,147,139,-5.4,1
+Cattle,Groningen Blaarkop,0,0,,,,,,,,,0
+Cattle,Guernsey,1,1,"1,215","1,068",773,"1,278",781,747,800,7.1,0
+Cattle,Guernsey (Island),1,1,,,498,530,521,,,,0
+Cattle,Heck,0,0,,,,,,,,,0
+Cattle,Hereford,1,0,"3,447","3,590","3,911","4,049","4,656",,,,0
+Cattle,Hereford Traditional / Original,1,1,252,267,247,249,276,320,295,-7.8,1
+Cattle,Highland,1,1,"1,656","1,511","1,531","1,256","1,102","1,105",734,-33.6,1
+Cattle,"Holstein Friesian (includes Holstein, Holstein Friesian, Red and White Friesian)",0,0,"209,169","211,335","191,557","186,354","197,010","196,456",,,0
+Cattle,Irish Moiled,1,1,182,151,226,174,198,259,251,-3.1,1
+Cattle,Jersey,1,0,"8,792","8,207","7,497","7,288","6,697","7,008","6,600",,0
+Cattle,Jersey (Island),1,1,,,860,817,837,835,,-0.2,1
+Cattle,Kerry,0,0,354,298,296,246,191,170,135,,0
+Cattle,Limousin / British Limousin,0,0,"10,844","10,977","11,002","10,871","10,722",,,,0
+Cattle,Lincoln Red,1,1,718,680,777,739,654,620,766,23.5,0
+Cattle,Lincoln Red (Original population),1,1,77,98,,114,79,95,,20.3,0
+Cattle,Lowline,0,0,,,,,,,,,0
+Cattle,Luing,1,1,"1,425","1,495","1,652","1,817","1,577","1,671","1,779",6.5,0
+Cattle,Maine Anjou,0,0,,,,,18,,,,0
+Cattle,Marchigiana,0,0,,,,,,,,,0
+Cattle,Meuse-Rhine-Issel,0,0,,,,,,,,,0
+Cattle,Murray Grey,0,0,142,,139,155,159,,,,0
+Cattle,Normande,0,0,,,,,,,,,0
+Cattle,Northern Dairy Shorthorn,1,1,13,16,13,16,10,32,21,-34.4,1
+Cattle,Norwegian Red,0,0,,,,,,,,,0
+Cattle,Parthenais,0,0,,,,,,,,,0
+Cattle,Pinzgauer,0,0,,,,,,,,,0
+Cattle,Red Poll,1,1,"1,085",901,776,826,803,820,759,-7.4,1
+Cattle,Riggit Galloway,0,0,,,20,38,41,,,,0
+Cattle,Romagnola,0,0,,,,,,,,,0
+Cattle,Salers,0,0,641,,,,,,,,0
+Cattle,Shetland,1,1,174,147,141,142,159,169,214,26.6,0
+Cattle,Shorthorn,1,0,,,,,,,,,0
+Cattle,South Devon,1,0,"3,298","3,252","4,386","3,411","3,771","3,842","3,446",,0
+Cattle,Stabiliser,0,0,"3,789","3,905","2,480","2,683","2,777",,,,0
+Cattle,Sussex,1,1,994,"1,067","1,065","1,053",810,,,,0
+Cattle,Swedish Red & White,0,0,,,,,,,,,0
+Cattle,Swiss Grey,0,0,,,,,,,,,0
+Cattle,Vaynol,1,1,4,3,4,1,2,1,4,300.0,0
+Cattle,Wagyu,0,0,,,,,137,,,,0
+Cattle,Water Buffalo,0,0,,,,,,,,,0
+Cattle,Welsh Black,1,0,"2,098","2,787","1,770","1,608","2,174",,,,0
+Cattle,White Galloway,1,1,86,95,88,33,70,43,72,67.4,0
+Cattle,White Park,1,1,259,198,299,223,160,245,214,-12.7,1
+Cattle,Whitebred Shorthorn,1,1,51,49,77,73,48,63,67,6.3,0
+Sheep,Badger Face Welsh (Torddu and Torwen),1,1,"1,948","2,289","2,284","2,404","2,384","2,330","2,410",3.4,0
+Sheep,Balwen,1,1,,,431,498,523,459,363,-20.9,1
+Sheep,Beltex,0,0,"3,373","4,084","4,371","3,730","4,123",,"4,839",,0
+Sheep,Beulah Speckled Face,1,0,"8,171","7,730","11,066","12,033","8,568",,,,0
+Sheep,Black Welsh Mountain (4),1,1,,,,,,,,,0
+Sheep,Blue Texel,0,0,249,414,471,674,780,"1,364","1,638",,0
+Sheep,Bluefaced Leicester,1,0,"6,067","5,897","7,289","6,565","7,078","7,463","7,880",,0
+Sheep,Border Leicester (7),1,1,485,443,539,444,413,436,,5.6,0
+Sheep,Boreray,1,1,96,106,146,120,189,165,176,6.7,0
+Sheep,Brecknock Hill Cheviot,1,0,,,,,,,,,0
+Sheep,British Berrichon,0,0,484,480,661,637,616,942,916,,0
+Sheep,British Bleu Du Maine,0,0,239,339,292,289,402,414,427,,0
+Sheep,British Charollais,0,0,"4,889","6,015","4,922","5,377","6,971","6,400","4,630",,0
+Sheep,British Milksheep,0,0,,13,50,56,68,,,,0
+Sheep,Cambridge,1,1,146,89,105,95,102,,,,0
+Sheep,Castlemilk Moorit,1,1,223,261,266,332,297,303,298,-1.7,1
+Sheep,Charmoise,0,0,98,130,130,120,150,,,,0
+Sheep,Clun Forest,1,1,821,957,963,777,897,979,900,-8.1,1
+Sheep,Cotswold,1,1,394,377,385,442,314,411,348,-15.3,1
+Sheep,Dalesbred,1,1,"1,554","1,579","3,434","3,570","3,274","3,291","3,567",8.4,0
+Sheep,Derbyshire Gritstone,1,1,,290,243,269,285,290,297,2.4,0
+Sheep,Devon and Cornwall Longwool,1,1,410,244,316,380,270,530,330,-37.7,1
+Sheep,Devon Closewool,1,1,867,667,876,648,764,,485,,0
+Sheep,Dorper,0,0,119,127,102,170,159,162,155,,0
+Sheep,Dorset Down,1,1,342,377,618,610,650,648,822,26.9,0
+Sheep,Dorset Horn,1,1,627,520,555,543,444,401,416,3.7,0
+Sheep,Easy Care,0,0,,,,,,,,,0
+Sheep,Epynt Hardy Speckled,,0,"1,600","1,760","1,600","1,600","1,619",,,,0
+Sheep,Exlana,0,0,"1,950","2,100","1,800","1,500","1,540",,,,0
+Sheep,Exmoor Horn,1,1,"2,922",,"2,929","3,214","2,841",,,,0
+Sheep,Galway,0,0,53,40,74,64,68,,,,0
+Sheep,Gotland,0,0,90,173,135,153,76,,,,0
+Sheep,Greyface Dartmoor,1,1,566,547,609,489,657,937,656,-30.0,1
+Sheep,Hampshire Down,1,1,"1,351","1,261","1,452","1,616","1,659","1,510","1,998",32.3,0
+Sheep,Hebridean,1,1,"1,851","1,922","2,019","2,052","2,235","2,115","1,954",-7.6,1
+Sheep,Herdwick (5),1,1,,,,,,,,,0
+Sheep,Hill Radnor ,1,1,246,254,429,500,351,371,445,19.9,0
+Sheep,Icelandic / British Icelandic,0,0,,,60,53,64,,,,0
+Sheep,Ile De France,0,0,95,105,102,90,83,,,,0
+Sheep,Jacob,1,1,"1,925","2,858","2,584","2,268","2,777","2,659","2,697",1.4,0
+Sheep,Kerry Hill,1,1,"1,317","1,498","1,627","1,443","2,194","2,502",,14.0,0
+Sheep,Leicester Longwool,1,1,242,309,312,320,223,278,242,-12.9,1
+Sheep,Lincoln Longwool (6),1,1,342,293,302,278,233,248,228,-8.1,1
+Sheep,Llandovery Whiteface Hill,1,1,,,,,"11,227",,,,0
+Sheep,Llanwenog,1,1,709,791,744,851,462,643,,39.2,0
+Sheep,Lleyn,1,0,,"36,672","28,038","38,485","38,465","42,325","39,792",,0
+Sheep,Lonk,1,1,"1,103","1,030",925,"1,040","1,025","1,030",980,-4.9,1
+Sheep,Manx Loaghtan,1,1,375,375,394,441,339,349,277,-20.6,1
+Sheep,Meatlinc,0,0,,,,,,,,,0
+Sheep,Norfolk Horn,1,1,424,441,363,471,591,551,550,-0.2,1
+Sheep,North Country Cheviot,1,0,,,,,,,,,0
+Sheep,North Ronaldsay / Orkney,1,1,159,142,184,184,234,206,240,16.5,0
+Sheep,Ouessant,0,0,50,58,115,34,140,138,203,,0
+Sheep,Oxford Down,1,1,385,414,459,523,470,441,507,15.0,0
+Sheep,Poll Dorset,1,0,,,"5,222","5,573","5,401",,,,0
+Sheep,Portland,1,1,384,347,305,394,383,360,461,28.1,0
+Sheep,Romney (4),1,1,,,,,,,,,0
+Sheep,Rouge de l'Est / British Rouge,0,0,378,325,397,292,311,286,272,,0
+Sheep,Rough Fell (9),1,0,,,,,,,,,0
+Sheep,Roussin,0,0,300,300,,,,,,,0
+Sheep,Ryeland (including Coloured Ryeland),1,1,"1,378","1,698","2,644","1,845","2,078","2,303","2,249",-2.3,1
+Sheep,Scottish Blackface (4),1,0,,,,,,,,,0
+Sheep,Shetland Island,1,1,,,"2,016","1,982","1,915",,,,0
+Sheep,Shetland Mainland,1,1,"1,588","1,849","2,034","2,332","1,961","2,310","1,972",-14.6,1
+Sheep,Shropshire,1,1,877,997,957,"1,155","1,481","1,844","1,706",-7.5,1
+Sheep,Soay,1,1,454,445,473,410,465,340,395,16.2,0
+Sheep,South Country Cheviot,1,0,,,,,,,,,0
+Sheep,South Wales Mountain (Nelson type) (4),1,0,,,,,,,,,0
+Sheep,Southdown,1,1,"1,435","1,764","1,652","1,593","1,505","1,856","1,693",-8.8,1
+Sheep,Suffolk Sheep,1,0,"9,022","9,222","8,555","7,901","9,772","9,123","7,773",,0
+Sheep,Swaledale,1,0,"67,126","70,201","71,000","69,000","68,000","67,758","69,160",,0
+Sheep,Teeswater (8),1,1,285,278,278,292,320,270,270,-15.6,1
+Sheep,Texel / British Texel,0,0,"22,763","22,530","29,804","28,515","29,645",,,,0
+Sheep,Valais Blacknose,0,0,,,,,,113,218,,0
+Sheep,Vendeen / British Vendeen,0,0,190,179,,,132,,,,0
+Sheep,Welsh Hill Speckled Face,1,1,,,,,,,,,0
+Sheep,Welsh Mountain,1,0,,,,,,,,,0
+Sheep,Wensleydale,1,1,426,403,426,441,390,436,357,-18.1,1
+Sheep,White Face Dartmoor,1,1,635,670,704,971,887,"1,166",881,-24.4,1
+Sheep,Whitefaced Woodland,1,1,218,245,210,227,214,190,212,11.6,0
+Sheep,Wiltshire Horn,1,1,,"2,836","5,067","1,348","1,827","1,796","1,856",3.3,0
+Sheep,Zwartbles,0,0,"2,831","3,178","3,541","3,649","3,666","3,754","3,868",,
+Pigs,Berkshire,1,1,402,246,173,187,142,130,156,20.0,0
+Pigs,British Lop,1,1,266,199,179,149,155,125,89,-28.8,1
+Pigs,British Saddleback,1,1,872,510,310,225,208,233,199,-14.6,1
+Pigs,Duroc,0,0,50,49,37,48,91,114,62,,
+Pigs,Gloucestershire Old Spots,1,1,"1,009",761,637,497,392,316,295,-6.6,1
+Pigs,Hampshire,0,0,36,30,35,34,37,32,26,,
+Pigs,KuneKune,0,0,817,575,352,337,272,,,,
+Pigs,Landrace,1,1,240,354,156,98,86,115,88,-23.5,1
+Pigs,Large Black,1,1,214,182,186,116,144,141,168,19.1,0
+Pigs,Large White,1,1,436,615,165,188,362,191,216,13.1,0
+Pigs,Mangalitza,0,0,171,60,61,39,36,20,31,,
+Pigs,Middle White,1,1,218,163,153,114,122,132,88,-33.3,1
+Pigs,Oxford Sandy and Black,1,1,414,420,321,196,198,205,210,2.4,0
+Pigs,Pietrain,0,0,85,81,44,89,87,114,61,,
+Pigs,Tamworth,1,1,268,233,169,134,181,151,140,-7.3,1
+Pigs,Welsh,1,1,465,356,290,352,342,258,246,-4.7,1
+Goats,Alpine / British Alpine,0,0,80,81,106,74,112,89,99,,
+Goats,Anglo Nubian,0,0,257,267,269,243,243,266,287,,
+Goats,Angora / British Angora,0,0,3,18,125,123,149,125,,,
+Goats,Arapawa / British Arapawa,0,0,,,30,,,,,,
+Goats,Bagot,1,1,47,52,41,47,71,53,89,67.9,0
+Goats,Boer / British Boer,0,0,169,271,286,439,468,501,629,,
+Goats,British Guernsey,0,0,34,37,46,42,48,43,53,,
+Goats,British Saanen,0,0,187,196,161,119,98,145,115,,
+Goats,British Toggenburg,0,0,140,190,147,162,126,148,144,,
+Goats,Cashmere,0,0,,,,,,,,,
+Goats,Cheviot (Feral) (2)(3),1,1,35,25,43,16,26,16,,-38.5,1
+Goats,English Goat,0,0,,22,10,11,30,,,,
+Goats,Golden Guernsey,1,1,212,201,196,240,217,235,273,16.2,0
+Goats,Pygmy,0,0,340,380,372,420,429,,,,
+Goats,Saanen,1,1,33,44,36,61,30,56,36,-35.7,1
+Goats,Toggenburg,1,1,37,30,30,41,43,37,31,-16.2,1
+Horses,American Miniature Horse,0,0,,,4,6,,,,,
+Horses,American Quarter Horse,0,0,54,68,53,37,39,22,41,,
+Horses,American Saddlebred,0,0,,,,,,,,,
+Horses,Anglo European ,0,0,,,537,414,429,,,,
+Horses,Appaloosa / British Appaloosa,0,0,46,41,30,18,25,18,17,,
+Horses,Arab Horse,0,0,,,261,227,208,,,,
+Horses,"British Percheron, Percheron",1,1,7,6,12,7,8,,,,0
+Horses,British Riding Pony,0,0,,,152,102,95,,,,
+Horses,"British Spotted Pony, Spotted Pony",0,0,38,21,16,15,15,8,16,,
+Horses,Camargue / British Camargue,0,0,,,0,0,0,,,,
+Horses,Caspian Horse,0,0,,,1,4,,,,,
+Horses,Cleveland Bay Horse,1,1,11,18,9,18,7,11,5,-54.5,1
+Horses,Clydesdale Horse,1,1,177,141,121,132,130,117,114,-2.6,0
+Horses,Coloured Horse & Pony,0,0,,,48,47,28,28,,,
+Horses,Connemara Pony / British Connemara Pony,0,0,154,162,122,124,103,68,101,,
+Horses,Dales Pony,1,1,46,64,46,36,41,43,35,-18.6,1
+Horses,Dartmoor Hill Pony (2),0,0,,,273,273,273,,,,
+Horses,Dartmoor Pony,1,1,112,69,78,63,54,,72,,0
+Horses,Donkey,0,0,13,7,12,8,4,7,,,
+Horses,Eriskay Pony,1,1,1,2,7,14,5,7,2,-71.4,1
+Horses,Exmoor Pony,1,1,106,120,100,84,85,60,62,3.3,0
+Horses,Falabella,0,0,,,,,,,,,
+Horses,Fell Pony,1,1,165,158,151,113,93,98,95,-3.1,1
+Horses,Fjord Horse,0,0,,,11,10,12,,,,
+Horses,Friesian Horse,0,0,,,7,12,15,,,,
+Horses,Hackney,1,1,43,52,24,12,23,32,26,-18.8,1
+Horses,Haflinger,0,0,23,20,8,16,18,9,11,,
+Horses,Hanoverian,,0,,,77,102,60,,,,
+Horses,Highland Pony,1,1,188,164,135,152,113,124,103,-16.9,1
+Horses,Icelandic Horse,0,0,,,9,9,2,,,,
+Horses,Irish Draught,0,0,48,56,44,44,32,12,4,,
+Horses,Lipizzaner,0,0,,,6,6,10,,,,
+Horses,Miniature Horse,0,0,71,40,68,67,46,49,30,,
+Horses,Miniature Mediterranean Donkey,0,0,94,90,57,45,37,,,,
+Horses,Morgan,0,0,,,3,6,5,,,,
+Horses,New Forest Pony,1,1,320,386,430,209,200,197,254,28.9,0
+Horses,Palomino,0,0,,,16,31,35,,,,
+Horses,Scottish Sport Horse,0,0,127,99,100,82,47,,,,
+Horses,Shetland Pony,1,1,1688,1504,1149,1025,952,857,881,2.8,0
+Horses,Shire Horse,1,1,192,170,192,177,151,160,129,-19.4,1
+Horses,Sport Pony,0,0,209,224,235,143,172,137,,,
+Horses,Standardbred & Trotting Horse,0,0,258,237,191,186,210,228,143,,
+Horses,Suffolk,1,1,19,26,19,29,12,11,10,-9.1,1
+Horses,Thoroughbred,1,0,2325,2301,2179,2189,2190,,,,
+Horses,Traditional Gypsy Cob,,0,,,169,201,193,,,,
+Horses,Trakehner,0,0,,,10,10,12,,,,
+Horses,Warmblood / British Warmblood,0,0,251,244,200,170,204,151,108,,
+Horses,Welsh Cob (Section D),1,0,,,1051,892,812,735,484,,
+Horses,Welsh Mountain (Section A semi-feral),1,1,,,,,479,,,,0
+Horses,Welsh Mountain Pony (Section A),1,0,,,1267,1111,986,940,643,,
+Horses,Welsh Pony (Section B),1,0,,,383,390,354,275,219,,
+Horses,Welsh Pony of Cob Type (Section C),1,0,,,467,396,398,365,250,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,30
